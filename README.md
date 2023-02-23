@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Science with Python and R**
 
+- 📫 How to reach me **Lucianapantaleon@gmail.com**
+
 - ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
 
 <h3 align="left">Connect with me:</h3>
