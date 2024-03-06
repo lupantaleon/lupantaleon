@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luciana!</h1>
 <h3 align="center">A passionate Data Analysit and Development from Argentina</h3>
 
-- 🌱 I’m currently learning **Data Science with Python and R**
+- 🌱 I’m Data Scientist | Data Analytics
+-  **Data Science with Python and R**
 
 - 📫 How to reach me **Lucianapantaleon@gmail.com**
 
