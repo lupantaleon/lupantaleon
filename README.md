@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciana!</h1>
-<h3 align="center">A passionate Data Analysit and Development from Argentina</h3>
+<h3 align="center">A passionate Data Analysit and Development </h3>
 
 - 🌱 I’m Data Scientist | Data Analytics
 -  **Data Science with Python and R**
